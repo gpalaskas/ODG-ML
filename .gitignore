@@ -1,0 +1,9 @@
+# Ignore large data files
+*.json
+*.csv
+
+# folders to ignore
+artifacts/
+embedding_outputs/
+annotated/
+processed_labels/
